@@ -1,6 +1,5 @@
 *********************************
 *Author: Varan Mehta;
-*Program Purpose: Homework 4 SAS Program;
 *Date: April 17, 2022;
 *********************************;
 
