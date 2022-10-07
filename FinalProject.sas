@@ -1,6 +1,5 @@
 *********************************
 *Author: Varan Mehta;
-*Program Purpose: Final Project SAS Program;
 *Date: April 28, 2022;
 *********************************;
 
